@@ -3,4 +3,4 @@
 2. [Smart Braille Prototype Video](https://youtu.be/dRJUgBnrWw8)
 3. [Pseudo Code](https://github.com/carbonvibes/Projects/blob/Smart-Braille/Pseudo_Code.py)
 4. [Final Code](https://github.com/carbonvibes/Projects/blob/Smart-Braille/CODE_FINAL.ino)
-[Previous page]()
+5. [Previous page](https://github.com/carbonvibes/Projects)
