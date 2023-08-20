@@ -1,3 +1,3 @@
-# Projects
+#   Contents
 
-1. [Smart Braille](https://youtu.be/dRJUgBnrWw8)
+1. [Smart Braille Prototype Video](https://youtu.be/dRJUgBnrWw8)
