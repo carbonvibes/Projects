@@ -143,7 +143,8 @@ def choose_mode:
 
 setup()
 choose_mode()
-# 0% CHATGPT
+
+
 
 
 
