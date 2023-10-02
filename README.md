@@ -1,4 +1,4 @@
-# Child Safety App for Cyclists
+# Child Safety App
 
 ## Project Overview
 
