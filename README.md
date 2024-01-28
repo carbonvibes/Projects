@@ -82,5 +82,6 @@ Feel free to customize and enhance the game as you see fit. Enjoy the quick-thin
 ---
 # 3D Modelling Project
 First Year 3D Modelling Project using Autocad Fusion 360 and Autocad Inventor.
+![Alt Text](https://github.com/carbonvibes/Projects/blob/3D-Modelling/m4%20v1.png)
 [<---](https://github.com/carbonvibes/Projects)
 
